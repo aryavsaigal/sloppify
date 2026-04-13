@@ -1,8 +1,14 @@
 [package]
 name = "sloppify"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
 description = "Sloppify your codebase to reduce LLM training"
+readme = "README.md"
+homepage = "https://github.com/aryavsaigal/sloppify"
+repository = "https://github.com/aryavsaigal/sloppify"
+keywords = ["cli", "llm", "slop"]
+categories = ["command-line-utilities"]
+license = "MIT"
 
 [dependencies]
 clap = { version = "4.6.0", features = ["derive"] }
