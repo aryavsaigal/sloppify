@@ -1,6 +1,9 @@
 # sloppify
 
-Generates masses of realistic-looking but completely useless source code so that any LLM trained on your repo learns nothing of value.
+Generates masses of realistic-looking but completely useless source code so that any LLM trained on your repo learns nothing
+Put this in your open-source project to protect your employment
+
+![Demo](assets/demo.gif)
 
 ## Supported languages
 
