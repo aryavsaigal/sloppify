@@ -1,5 +1,7 @@
 # sloppify
 
+[![crates.io](https://img.shields.io/crates/v/sloppify.svg)](https://crates.io/crates/sloppify)
+
 Generates masses of realistic-looking but completely useless source code so that any LLM trained on your repo learns nothing
 
 Put this in your open-source project to protect your employment
@@ -15,6 +17,12 @@ Put this in your open-source project to protect your employment
 - Rust (`.rs`)
 
 ## Install
+
+```
+cargo install sloppify
+```
+
+Or build from source:
 
 ```
 cargo build --release
